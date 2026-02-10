@@ -1,0 +1,23 @@
+{
+  "normal_mode": [
+    {
+      "ronde": 1, "multiplier": 1,
+      "pertanyaan": "APA YANG DILAKUKAN SAAT TANGGAL TUA?",
+      "jawaban": [
+        {"teks": "MAKAN MIE INSTAN", "skor": 45},
+        {"teks": "PUASA", "skor": 25},
+        {"teks": "TIDUR", "skor": 15}
+      ]
+    }
+  ],
+  "fast_money": {
+    "P1": {
+      "jwb": ["NASI GORENG", "SATE", "SOTO", "BAKSO", "GADO-GADO"],
+      "skr": [45, 20, 15, 10, 5]
+    },
+    "P2": {
+      "jwb": ["MIE AYAM", "RENDANG", "PEMPEK", "GUDEG", "SIOMAY"],
+      "skr": [30, 25, 20, 10, 5]
+    }
+  }
+}
