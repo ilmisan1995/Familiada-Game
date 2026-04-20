@@ -81,7 +81,7 @@ while running:
         mult = soal.get("multiplier", 1)
         draw_t(f"RONDE {soal['ronde']} - {mult}X SCORE", font_main, YELLOW, 600, 35)
         draw_t(skor_t1, font_score, YELLOW, 150, 85); draw_t(skor_mid, font_score, YELLOW, 600, 85); draw_t(skor_t2, font_score, YELLOW, 1050, 85)
-        for i in range(4):
+        for i in range(3):
             draw_t("X", font_x, YELLOW if i < salah1 else GRAY, 100+(i*70), 195)
             draw_t("X", font_x, YELLOW if i < salah2 else GRAY, 880+(i*70), 195)
         draw_t(soal["pertanyaan"], font_main, YELLOW, 600, 220)
