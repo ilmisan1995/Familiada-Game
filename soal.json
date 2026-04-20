@@ -2,11 +2,72 @@
   "normal_mode": [
     {
       "ronde": 1, "multiplier": 1,
-      "pertanyaan": "APA YANG DILAKUKAN SAAT TANGGAL TUA?",
+      "pertanyaan": "SOAL 1",
       "jawaban": [
-        {"teks": "MAKAN MIE INSTAN", "skor": 45},
-        {"teks": "PUASA", "skor": 25},
-        {"teks": "TIDUR", "skor": 15}
+        {"teks": "JAWABAN 1", "skor": 30},
+        {"teks": "JAWABAN 2", "skor": 10},
+		{"teks": "JAWABAN 3", "skor": 10},
+		{"teks": "JAWABAN 4", "skor": 10},
+		{"teks": "JAWABAN 5", "skor": 10},
+		{"teks": "JAWABAN 6", "skor": 10},
+		{"teks": "JAWABAN 7", "skor": 10},
+        {"teks": "JAWABAN 8", "skor": 10}
+      ]
+    },
+	{
+      "ronde": 2, "multiplier": 1,
+      "pertanyaan": "SOAL 2",
+      "jawaban": [
+        {"teks": "JAWABAN 1", "skor": 30},
+        {"teks": "JAWABAN 2", "skor": 10},
+		{"teks": "JAWABAN 3", "skor": 10},
+		{"teks": "JAWABAN 4", "skor": 10},
+		{"teks": "JAWABAN 5", "skor": 10},
+		{"teks": "JAWABAN 6", "skor": 10},
+		{"teks": "JAWABAN 7", "skor": 10},
+        {"teks": "JAWABAN 8", "skor": 10}
+      ]
+    },
+	{
+      "ronde": 3, "multiplier": 2,
+      "pertanyaan": "SOAL 3",
+      "jawaban": [
+        {"teks": "JAWABAN 1", "skor": 30},
+        {"teks": "JAWABAN 2", "skor": 10},
+		{"teks": "JAWABAN 3", "skor": 10},
+		{"teks": "JAWABAN 4", "skor": 10},
+		{"teks": "JAWABAN 5", "skor": 10},
+		{"teks": "JAWABAN 6", "skor": 10},
+		{"teks": "JAWABAN 7", "skor": 10},
+        {"teks": "JAWABAN 8", "skor": 10}
+      ]
+    },
+	{
+      "ronde": 4, "multiplier": 3,
+      "pertanyaan": "SOAL 4",
+      "jawaban": [
+        {"teks": "JAWABAN 1", "skor": 30},
+        {"teks": "JAWABAN 2", "skor": 10},
+		{"teks": "JAWABAN 3", "skor": 10},
+		{"teks": "JAWABAN 4", "skor": 10},
+		{"teks": "JAWABAN 5", "skor": 10},
+		{"teks": "JAWABAN 6", "skor": 10},
+		{"teks": "JAWABAN 7", "skor": 10},
+        {"teks": "JAWABAN 8", "skor": 10}
+      ]
+    },
+	{
+      "ronde": 5, "multiplier": 3,
+      "pertanyaan": "SOAL 5",
+      "jawaban": [
+        {"teks": "JAWABAN 1", "skor": 30},
+        {"teks": "JAWABAN 2", "skor": 10},
+		{"teks": "JAWABAN 3", "skor": 10},
+		{"teks": "JAWABAN 4", "skor": 10},
+		{"teks": "JAWABAN 5", "skor": 10},
+		{"teks": "JAWABAN 6", "skor": 10},
+		{"teks": "JAWABAN 7", "skor": 10},
+        {"teks": "JAWABAN 8", "skor": 10}
       ]
     }
   ],
